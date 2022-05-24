@@ -15,7 +15,7 @@ log.setLevel(os.environ.get('LOGGING_LEVEL', 'INFO').upper())
 
 # Handlers
 async def start(message: types.Message):
-    await message.reply('Пизда тебе, {}'.format(message.from_user.first_name))
+    await message.reply('Can\'t wait to see what holiday is today!')
 
 
 # AWS Lambda funcs

@@ -1,3 +1,13 @@
+# ⚠️ Repository Archived  
+
+This repository has been archived because it is no longer maintained. The bot relied on data from an external website, which is no longer accessible. As a result, the functionality of HolidaysBot has been rendered obsolete.  
+
+If you are looking for an alternative solution, consider checking other APIs or resources that provide holiday data.  
+
+Thank you to everyone who used and contributed to this project!  
+
+---
+
 # HolidaysBot
 Telegram bot that shows current holidays
 
